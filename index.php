@@ -21,5 +21,5 @@
 </div>
 
 <button id="install">Install this app</button>
-<script src="/script.js"></script>
+<script src="script.js"></script>
 </body>
